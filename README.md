@@ -23,3 +23,9 @@ A React.js project that fetches hotel data from an API and displays hotel cards.
 ## API
 
 https://demohotelsapi.pythonanywhere.com/hotels/
+
+## Live Demo
+https://hotel-booking-app-xi-blue.vercel.app/
+
+## GitHub Repository
+https://github.com/soni-701/hotel-booking-app
